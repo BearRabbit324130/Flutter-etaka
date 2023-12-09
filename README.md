@@ -16,16 +16,6 @@ A Cross Platform Mobile Financial Service (MFS) Application. eTaka is a Mobile F
 * A little knowledge of Dart and Flutter
 * A brain to think 🤓🤓
 
-## 🔥Usage
-
-Make sure you have Flutter installed on your local machine. For more instructions on how to install flutter, look [here](https://flutter.io/docs/get-started/install).
-```
-git clone https://github.com/ssoad/etaka.git
-cd etaka
-flutter pub get
-flutter run
-```
-
 ## 📸 ScreenShots
 
 <img src="https://github.com/ssoad/etaka/raw/master/docs/imgs/1.png" alt="drawing" style="width:250px;"/> <img src="https://github.com/ssoad/etaka/raw/master/docs/imgs/2.png" alt="drawing" style="width:250px;"/> <img src="https://github.com/ssoad/etaka/raw/master/docs/imgs/3.png" alt="drawing" style="width:250px;"/> <img src="https://github.com/ssoad/etaka/raw/master/docs/imgs/4.png" alt="drawing" style="width:250px;"/> <img src="https://github.com/ssoad/etaka/raw/master/docs/imgs/5.png" alt="drawing" style="width:250px;"/> <img src="https://github.com/ssoad/etaka/raw/master/docs/imgs/6.png" alt="drawing" style="width:250px;"/>
